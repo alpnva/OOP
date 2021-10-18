@@ -9,9 +9,6 @@ int main() {
 	const int size = 16;
 	char s[size];
 	std::cout << "Use 'help' or 'h' to get help." << std::endl;
-	/*Trapezoid *ptr_tr = nullptr; // ключевое слово, для описания константы нулевого указателя
-	Rhombus *ptr_rh = nullptr;
-	Pentagon *ptr_pen = nullptr;*/
 	while(1) {  // цикл бесконечный, while(true)
 		std::cin.getline(s, size); // чтение строки или строки из входного потока(часть заголовка string)
 		std::cin.clear(); // используем, чтобы избавиться от флага ошибки, сброс битов ошибок входного стандартного потока
