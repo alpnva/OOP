@@ -6,6 +6,7 @@
 		"Pentagon"
 	],
 	"containers": [
+		"TVector"
 	],
 	"finished_labs": {
 		"lab1": "lab1"
