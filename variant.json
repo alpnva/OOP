@@ -10,7 +10,7 @@
 	],
 	"finished_labs": {
 		"lab0.1":"lab0.1",
-		"lab0.2":"__in_progress__",
+		"lab0.2":"lab0.2",
 		"lab1": "lab1",
 		"lab2": "lab2",
 		"lab3": "lab3",
@@ -20,6 +20,7 @@
 	},
 	"reports": [
 		"lab0.1"
+		"lab0.2"
 		"lab1",
 		"lab2",
 		"lab3",
