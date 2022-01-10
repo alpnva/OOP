@@ -7,7 +7,7 @@
 	],
 	"containers": [
 		"TVector",
-		"TQueue"
+		"TLinkedList"
 	],
 	"finished_labs": {
 		"lab0.1":"lab0.1",
@@ -17,7 +17,7 @@
 		"lab3": "lab3",
 		"lab4": "lab4",
 		"lab5": "lab5",
-		"lab6": "__in_progress__"
+		"lab6": "lab6"
 	},
 	"reports": [
 		"lab0.1"
